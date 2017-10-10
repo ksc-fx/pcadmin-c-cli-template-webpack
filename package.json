@@ -1,0 +1,10 @@
+{
+  "name": "pcadmin-c-cli-template-webpack",
+  "version": "1.0.0",
+  "description": "Template scaffold for pcadmin components.",
+  "scripts": {
+  },
+  "devDependencies": {
+  },
+  "license": "ISC"
+}
